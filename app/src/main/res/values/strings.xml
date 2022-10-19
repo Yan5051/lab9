@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">laba 9</string>
+    <string name="VvedRost">Введиет рост</string>
+    <string name="VvedVes">Введите вес</string>
+    <string name="Poshitat">Посчитать</string>
+</resources>
